@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Catalogue Movie UI UX</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Pengaturan Bahasa</string>
+    <string name="now_playing_movie">Film Sekarang Tayang</string>
+    <string name="up_coming_movie">Film Akan Tayang</string>
+    <string name="dicoding_academy">Dicoding Academy</string>
+    <string name="dedi_siswanto">Dedi Siswanto</string>
+    <string name="detail">Selengkapnya</string>
+    <string name="share">Berbagi</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="search">Cari</string>
+</resources>
